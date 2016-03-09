@@ -1,12 +1,10 @@
-// ass2.
-
-/*Standard includes*/
 #include "Player.h"
 #include "Link.h"
 #include "SoccerClub.h"
 #include <iostream>
 
 using namespace std;
+
 
 void Print(Player p)
 {

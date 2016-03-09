@@ -1,9 +1,7 @@
-// SoccerClub.h
-#include "Link.h"
-#include "Player.h"
+// SoccerClub
+#include<iostream>
 
-#include <ostream>
-
+using namespace std;
 
 #ifndef SOCCER_H
 #define SOCCER_H

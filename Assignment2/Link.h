@@ -1,6 +1,4 @@
 // Link.h
-#include "Player.h"
-
 #ifndef LINK_H
 #define LINK_H
 
